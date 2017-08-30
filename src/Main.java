@@ -7,10 +7,11 @@ public class Main
     {
         System.out.println("Hello!!");
         System.out.println("asdfg");
-<<<<<<< HEAD
+
         System.out.println("tesssst");
-=======
+
         System.out.println("aaaaaaaaa");
->>>>>>> e0c7c424b3461beb1d251b74fa156d7cee2640f0
+        System.out.println("blablaablblalblablba");
+
     }
 }
